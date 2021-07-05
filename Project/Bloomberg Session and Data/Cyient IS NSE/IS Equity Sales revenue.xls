@@ -1,0 +1,157 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 9">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>Wen Li</o:LastAuthor>
+  <o:LastSaved>2002-09-25T13:28:32Z</o:LastSaved>
+  <o:Version>9.4402</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-weight:700;
+	font-family:Arial;
+	mso-font-charset:0;}
+.blppct
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:Percent;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.blptext
+     {mso-number-format:\@;}
+.blpdate
+	{mso-style-parent:style0;
+	mso-number-format:"mm\/dd\/yyyy\;\@";}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Book1</x:Name>
+    <x:WorksheetOptions>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>27</x:ActiveRow>
+       <x:ActiveCol>17</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>10005</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+<table>
+<tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td >Security</td><td >CYL IS Equity</td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td >Consensus</td><td >BST</td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td >Consolidation Basis</td><td >Consolidated</td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td >Currency</td><td >INR</td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >2018</td><td >2019</td><td >2020</td><td >2021</td><td >2022</td><td >2023</td><td ></td><td ></td><td >2018</td><td >2019</td><td >2020</td><td >2021</td><td >2022</td><td >2023</td></tr>
+<tr><td >Q1 Jun</td><td >9034000000.00</td><td >10800000000.00</td><td >10890000000.00</td><td ></td><td ></td><td ></td><td ></td><td >Q1 Jun</td><td >8.77%</td><td >19.55%</td><td >0.83%</td><td ></td><td ></td><td ></td></tr>
+<tr><td >Q2 Sep</td><td >9654000000.00</td><td >11869000000.00</td><td >11589000000.00</td><td ></td><td ></td><td ></td><td ></td><td >Q2 Sep</td><td >5.67%</td><td >22.94%</td><td >-2.36%</td><td ></td><td ></td><td ></td></tr>
+<tr><td >Q3 Dec</td><td >9833000000.00</td><td >11877000000.00</td><td >11059000000.00</td><td ></td><td ></td><td ></td><td ></td><td >Q3 Dec</td><td >7.22%</td><td >20.79%</td><td >-6.89%</td><td ></td><td ></td><td ></td></tr>
+<tr><td >Q4 Mar</td><td >10618000000.00</td><td >11629000000.00</td><td >10736000000.00</td><td >9960000000.00</td><td ></td><td ></td><td ></td><td >Q4 Mar</td><td >13.70%</td><td >9.52%</td><td >-7.68%</td><td >-7.23%</td><td ></td><td ></td></tr>
+<tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td >Year</td><td >39139000000.00</td><td >46175000000.00</td><td >44274000000.00</td><td >38618050000.00</td><td >42093200000.00</td><td >44567400000.00</td><td ></td><td >Year</td><td >8.52%</td><td >17.98%</td><td >-4.12%</td><td >-12.77%</td><td >9.00%</td><td >5.88%</td></tr>
+<tr><td >Cal Yr</td><td >45164000000.00</td><td >45167000000.00</td><td >40032037500.00</td><td >41224412500.00</td><td >43948850000.00</td><td ></td><td ></td><td >Cal Yr</td><td >19.29%</td><td >0.01%</td><td >-11.37%</td><td >2.98%</td><td >6.61%</td><td ></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+</body></html>
